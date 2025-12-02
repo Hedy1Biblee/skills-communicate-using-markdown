@@ -10,3 +10,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] open GitHub
+- [x] finish the study plan
+- [ ] sleep
